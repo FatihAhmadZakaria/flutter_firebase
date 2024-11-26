@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002470773698",
+    "project_id": "testing-fire-auth",
+    "storage_bucket": "testing-fire-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002470773698:android:33d327acfbc551fc6efc5b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDArn02CPxsC10TbuQBfKUWXwpaynkpBs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
